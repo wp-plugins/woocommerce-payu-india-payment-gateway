@@ -40,9 +40,10 @@ none
 
 == Screenshots ==
 
-1. Admin list interface showing Slider images and titles.
+1. Admin list interface.
+screenshot-1
 2. Example output.(see documentation).
-
+screenshot-2
 == Changelog ==
 
 = 1.0 =
